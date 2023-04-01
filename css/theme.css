@@ -4,14 +4,7 @@ body {
     background: #edeff1 radial-gradient(ellipse at center top , #f2f3f4 20%, #c7cdd4 100%) repeat fixed 0 0!important;
     font-family: 'Roboto', sans-serif!important;
 }
-a {
-    color: #2a2d31 !important;
-    text-decoration: none;
-}
-a.hover {
-    color: #54aacb !important;
-    text-decoration: none;
-}
+
 .clearit {
     display: none !important;
 }
