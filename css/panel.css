@@ -4,13 +4,7 @@ body {
 background:#FFFFFF !important;
     font-family: 'Roboto', sans-serif!important;
 }
-a {
-    color: #2a2d31 !important;
-    text-decoration: none;
-}
-a.hover {
-    color: #54aacb !important;
-    text-decoration: none;
+ext-decoration: none;
 }
 .clearit {
     display: none !important;
