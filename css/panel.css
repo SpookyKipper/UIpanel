@@ -21,6 +21,7 @@ background-image: none !important;
     border: 1px solid transparent!important;
     color: #fff!important;
 }
+/*
 #tutorial_show {
 background: #1e87f0 url("https://cpanel.labdz.tk/panel/images/tut_icon.gif") no-repeat scroll 6px 50%!important;
 background-image: none !important;
@@ -74,7 +75,7 @@ border-left: 1px solid rgba(255,255,255,.05);
 background: rgba(255,255,255,.08) url("https://raw.githubusercontent.com/labdz/UIpanel/master/images/logout.png") no-repeat 10px 8px;
 background-size: 15px;
 border-left: 1px solid rgba(255,255,255,.05);
-}
+}*/
 #register {
     display: none !important;
 }
